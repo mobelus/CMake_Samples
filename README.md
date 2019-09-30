@@ -1,3 +1,7 @@
+# How to check if a connection works in browser
+
+http://192.168.123.321:8888/status
+
 # CMake_Samples
 Samples for myself of how to use CMake
 
